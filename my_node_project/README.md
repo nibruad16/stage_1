@@ -20,8 +20,11 @@ The server will be running on http://localhost:5000.
 
 Routes
 / - Returns Wellcome Text
+
 /name - Returns my full name as a plain text message.
+
 /hobby - Returns my favorite hobby as a JSON object.
+
 /dream - Returns my dream or goal in life.
 
 4. Deploy the Server
