@@ -1,0 +1,1 @@
+This project is a simple web server built with Node.js and Express. It features three routes (/name, /hobby, /dream) that return static messages. The server is easily deployable on platforms Vercel, ensuring quick and efficient accessibility.
